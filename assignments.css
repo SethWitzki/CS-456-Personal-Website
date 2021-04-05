@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: #BBFFBB;
+    font-family: 'Roboto', sans-serif;
+}
+
+.assignment-page-div {
+    display: flex;
+    justify-content: center;
+}
+
+.assignment-main-div {
+    width: 60%;
+}
+
+.assignment-main-title {
+    font-family: 'Roboto Slab', serif;
+    color: #FF8000;
+    font-size: 48px;
+}
+
+.header-2 {
+    font-family: 'Roboto Slab', serif;
+    color: #FF8000;
+    font-size: 32px;
+}
+
+.header-3 {
+    font-family: 'Roboto Slab', serif;
+    color: #FF8000;
+    font-size: 24px;
+	text-align: left;
+}
+
+.header-4 {
+    font-family: 'Roboto Slab', serif;
+    color: #FF8000;
+    font-size: 20px;
+	text-align: center;
+}
+
+.assignment-examples {
+    text-align: left;
+}
+
+.back-button {
+    background-color: #FF8000;
+    color: white;
+    height: 36px;
+    font-size: 18px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.back-button:hover {
+	background-color: #FF8F20
+}
